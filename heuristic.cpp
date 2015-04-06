@@ -1,5 +1,6 @@
 // heuristic.cpp : Defines the entry point for the console application.
-//
+// Contact: Qingguo Wang, josephw10000@gmail.com
+// 
 #include <vector>
 #include <stdio.h>
 #include <stdlib.h>

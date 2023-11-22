@@ -20,9 +20,9 @@
  *
  * Citation
  * [1] Q. Wang, D. Korkin, and Y. Shang, "A Fast Multiple Longest Common Subsequence
- *      (MLCS) Algorithm," (major revision).
+ *      (MLCS) Algorithm," IEEE Transactions on Knowledge and Data Engineering, 23(3):321-34.
  * [2] Q. Wang, D. Korkin, and Y. Shang, "Efficient Dominant Point Algorithms for the
- *		Multiple Longest Common Subsequence (MLCS) Problem," Intl. Joint Conf. on
+ *	Multiple Longest Common Subsequence (MLCS) Problem," Intl. Joint Conf. on
  *	    Artificial Intelligence (IJCAI), 2009. 
  *
  * Contact: 
